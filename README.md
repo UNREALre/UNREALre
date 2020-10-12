@@ -7,7 +7,7 @@ My area of expertise includes not only backend but frontend development too. I h
 
 # Current interests
 ATM my main area of interest is Python language:
-- backend programming with Flask, PostgreSQL, MongoDB
+- backend programming with Flask, Django (DRF), PostgreSQL, MongoDB
 - data analysis with Numpy and Pandas
 - chat-bots with AI
 - practical analysis of text data
