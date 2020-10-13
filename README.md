@@ -14,7 +14,12 @@ ATM my main area of interest is Python language:
 - machine learning.
 
 # Recent repos
-This is a list of my latest Python repos that I'm kinda proud of. I've developed this projects to improve my Python/Flask skills:
+This is a list of my latest Python repos that I'm kinda proud of. I've developed this projects to improve my Python/Flask/Django skills:
+
+- My Smart News - https://github.com/UNREALre/MySmartNews
+The main goal of this service is to allow people to read only news they want to read, without ads and without mismatching content. Service parse ATM more than 10 news sources: DTF, Shazoo, Sports.ru, Lenta.ru etc. Users can create their own news feed based on parsed sources simply by selecting required source and drag'n'dropping it to appropriate place in feed order position.
+Used stack: Python, Django, DRF, Selenium, Celery, Redis, PostgreSQL, HTML/CSS (Bootstrap), JS (jQuery).
+
 - Recipes book - https://github.com/UNREALre/RecipesBook
 Recipe Master is a web-service where people can register, authorize themselves, add recipes (with ingredients and etc), search recipes, mark recipes as favourite, earn different achievements and etc.
 Used stack: Python, Flask, MongoDB, Jinja2, Babel, WTF.
