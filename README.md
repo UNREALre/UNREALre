@@ -17,5 +17,5 @@
 - LLM (LangChain), RAG
 
 ## Последние актуальные репозитории
-- ML Experiments - [https://github.com/UNREALre/MySmartNews](https://github.com/UNREALre/ML-experiments)
+- ML Experiments - [ML Experiments](https://github.com/UNREALre/ML-experiments)
 В данном репозитории я делюсь своими пет-проектами в области ML: обучение, соревнования kaggle, хакатоны и пр.
